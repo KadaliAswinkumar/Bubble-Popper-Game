@@ -3,7 +3,7 @@
 Bubble Game is a fun interactive game built using Python, OpenCV, Mediapipe, and Flask. The objective of the game is to pop bubbles on the screen using hand gestures captured through a webcam.
 
 
-https://github.com/KadaliAswinkumar/Bubble-Popper-Game/assets/89196595/69f5166c-e7e4-4216-9d75-e39dc59e97ad
+https://github.com/KadaliAswinkumar/Bubble-Popper-Game/assets/89196595/53d9312d-32f9-4679-a455-6025fe85190b
 
 
 ## Features
